@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jeremy Cours' website"
 title_separator          : "-"
-name                     : &name "Jérémy Cours"
+name                     : &name "Jeremy Cours"
 description              : &description "I am currently PhD student working on the consequences of forest dieback on habitat and communities"
 url                      : https://J-Cours.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jérémy Cours"
+  name             : "Jeremy Cours"
   avatar           : "Photo_profil_low.jpg"
   bio              : "I am currently PhD student working on the consequences of forest dieback on habitat and communities"
   location         : "France"
