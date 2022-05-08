@@ -1,5 +1,5 @@
 ---
-title: "Oviposition preference of the forest cockchafer (*Melolontha hippocastani* Fabr. 1801) at the stand scale depends on oak proportion, canopy openness and ground accessibility"
+title: "Oviposition preference of the forest cockchafer (Melolontha hippocastani Fabr. 1801) at the stand scale depends on oak proportion, canopy openness and ground accessibility"
 collection: publications
 permalink: /publication/2021-05-25-paper
 excerpt: ''
