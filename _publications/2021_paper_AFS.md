@@ -1,12 +1,12 @@
 ---
-title: "Oviposition preference of the forest cockchafer (Melolontha hippocastani Fabr. 1801) at the stand scale depends on oak proportion, canopy openness and ground accessibility"
+title: "Oviposition preference of the forest cockchafer (*Melolontha hippocastani* Fabr. 1801) at the stand scale depends on oak proportion, canopy openness and ground accessibility"
 collection: publications
 permalink: /publication/2021-05-25-paper
 excerpt: ''
 date: 2021-05-25
 venue: 'Annals of Forest Science Vol. 78 No 53'
 paperurl: 'https://doi.org/10.1007/s13595-021-01066-z'
-authors: '**Jeremy Cours**, Louis-Michel Nageleisen, Regine Touffait, Hubert Schmuck, Stephane Brault, Nathalie Breda, Claudine Richter, Francois-Xavier Saintonge, Vincent Boulanger'
+authors: 'Jeremy Cours, Louis-Michel Nageleisen, Regine Touffait, Hubert Schmuck, Stephane Brault, Nathalie Breda, Claudine Richter, Francois-Xavier Saintonge, Vincent Boulanger'
 ---
 
 **Abstract:** Key message
