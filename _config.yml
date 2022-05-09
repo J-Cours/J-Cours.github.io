@@ -84,7 +84,7 @@ author:
   avatar           : "Photo_profil_low.jpg"
   #bio              : "I am currently PhD student working on the consequences of forest dieback on habitat and communities"
   location         : "France"
-  employer         : "[INRAE UR EFNO](https://www6.val-de-loire.inrae.fr/efno/)"
+  employer         : <a "href="https://www6.val-de-loire.inrae.fr/efno/">INRAE UR EFNO</a>
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=rjlLHvoAAAAJ&hl=fr&authuser=1&oi=ao"
   email            : "jeremy.cours.2@gmail.com"
