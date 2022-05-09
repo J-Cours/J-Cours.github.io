@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jeremy Cours"
   avatar           : "Photo_profil_low.jpg"
-  bio              : "PhD student in forest ecology at <a "href="https://www6.val-de-loire.inrae.fr/efno/">INRAE UR EFNO</a>"
+  bio              : "PhD student in forest ecology at <a href='https://www6.val-de-loire.inrae.fr/efno/'>INRAE UR EFNO</a>"
   location         : "France"
   employer         : ""
   pubmed           : 
