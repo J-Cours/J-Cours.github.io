@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jeremy Cours"
   avatar           : "Photo_profil_low.jpg"
-  #bio              : "I am currently PhD student working on the consequences of forest dieback on habitat and communities"
+  bio              : "PhD student in forest ecology at <a "href="https://www6.val-de-loire.inrae.fr/efno/">INRAE UR EFNO</a>"
   location         : "France"
-  employer         : <a "href="https://www6.val-de-loire.inrae.fr/efno/">INRAE UR EFNO</a>
+  employer         : ""
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=rjlLHvoAAAAJ&hl=fr&authuser=1&oi=ao"
   email            : "jeremy.cours.2@gmail.com"
