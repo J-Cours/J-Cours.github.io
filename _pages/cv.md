@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* PhD in Forest Ecology, University of Orleans, 2019-2022
-* Forest Engineering - "Forest engineering and sciences", AgroParisTech Nancy, 2016-2019
-* Advanced Technician Certificate in Forest Management, CFPPA Bazas, 2014-2016
+* **PhD in Forest Ecology**, University of Orleans, 2019-2022
+* **Forest Engineering - "Forest engineering and sciences"**, AgroParisTech Nancy, 2016-2019
+* **Advanced Technician Certificate in Forest Management**, CFPPA Bazas, 2014-2016
 
 Work experience
 ======
-* 2019-2022: PhD student
+* 2019-2022: **PhD student**
   * Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (INRAE UR EFNO)
   * Nogent-sur-Vernisson - France
   * Thesis title: Consequences of forest dieback on habitat and biodiversity
   * Protocol writing and implementation, data analysis (Generalized Linear Mixed Models, multivariate analysis, Piecewise Structural Equation Modeling, functional analysis), implementation of machine learning technique for raster classification
 
-* 2016-2019: Researchand development engineer apprentice
+* 2016-2019: **Research and development engineer apprentice**
   * Office National des Forets (ONF DFRN)
   * Montreuil - France
   * Implementation of studies on ecology of *Melolontha hippocastani*
   * Implementation of studies on silviculture of *Fagus sylvatica*
 
-* 2014-2016: Apprentice forestry technician
+* 2014-2016: **Apprentice forestry technician**
   * SA Castagnet-Dumeou
   * Casteljaloux - France
   * Forest diagnostics (descriptions of forest stand, soil, etc.) and writing of forest management documents.
 
-* 2012-2014: Apprentice lumberjack
+* 2012-2014: **Apprentice lumberjack**
   * EURL L'Agenais
   * Chambery - France
   
