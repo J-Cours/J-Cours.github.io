@@ -24,7 +24,7 @@ Work experience
   * Protocol writing and implementation, data analysis (Generalized Linear Mixed Models, multivariate analysis, Piecewise Structural Equation Modeling, functional analysis), implementation of machine learning technique for raster classification
 
 * 2016-2019: Researchand development engineer apprentice
-  * Office National des Forêts (ONF DFRN)
+  * Office National des Forets (ONF DFRN)
   * Montreuil - France
   * Implementation of studies on ecology of *Melolontha hippocastani*
   * Implementation of studies on silviculture of *Fagus sylvatica*
