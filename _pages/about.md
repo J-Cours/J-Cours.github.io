@@ -14,3 +14,8 @@ Before that, I have a technical background with professional studies in forestry
 About my research
 ======
 My research interests lie in understanding the functioning of forest ecosystems and their responses to global change. This includes biotic and abiotic interactions, consequences of natural and anthropogenic disturbances, conservation biology and functional ecology. My current focus is on understanding the consequences of global change (e.g. changing natural disturbance regimes) on temperate forests.
+
+Places of interest
+======
+
+<p style="text-decoration:underline;"><a href="/activity_map.html">See a map of all the places I've conducted my research!</a></p>
