@@ -1,13 +1,15 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Jeremy Cours:
+  name        : "Jeremy Cours"
+  jobTitle    : "PhD student"
+  uri         : "https://j-cours.github.io/"
+  email       : "jeremy.cours.2@gmail.com"
+  bio         : "PhD student in forest ecology at <a href='https://www6.val-de-loire.inrae.fr/efno/'>INRAE UR EFNO</a>"
+  avatar      : "Photo_profil_low.jpg"
+  knowsLanguage: "French (Mother tongue), English (B2)"
+  twitter     : "@Jeremy_Cours"
+  google_plus : 
 
 Name2 Name2:
   name        : "Name2 Name2"
