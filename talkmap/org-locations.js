@@ -5,7 +5,7 @@ var addressPoints = [
     7.421408
   ],
   [
-    "CLIMTREE project - forest dieback in spruce forests",
+    "CLIMTREE project - forest dieback in spruce forests <a href='/publication/2021-02-15-paper'>[paper]</a>",
     48.994157,
     13.399582
   ],
@@ -28,5 +28,10 @@ var addressPoints = [
     "CANOPEE project - forest dieback in oak forest",
     48.030079,
     2.153492
+  ],
+  [
+    "Thesis - INRAE EFNO",
+    47.835041,
+    2.760474
   ]
 ];
