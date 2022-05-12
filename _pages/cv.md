@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Forest Ecology, University of Orleans, 2019-2022
+* Forest Engineering - "Forest engineering and sciences", AgroParisTech Nancy, 2016-2019
+* Advanced Technician Certificate in Forest Management, CFPPA Bazas, 2014-2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2022: PhD student
+  * Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (INRAE UR EFNO)
+  * Nogent-sur-Vernisson - France
+  * Thesis title: Consequences of forest dieback on habitat and biodiversity
+  * Protocol writing and implementation, data analysis (Generalized Linear Mixed Models, multivariate analysis, Piecewise Structural Equation Modeling, functional analysis), implementation of machine learning technique for raster classification
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2019: Researchand development engineer apprentice
+  * Office National des Forêts (ONF DFRN)
+  * Montreuil - France
+  * Implementation of studies on ecology of *Melolontha hippocastani*
+  * Implementation of studies on silviculture of *Fagus sylvatica*
+
+* 2014-2016: Apprentice forestry technician
+  * SA Castagnet-Dumeou
+  * Casteljaloux - France
+  * Forest diagnostics (descriptions of forest stand, soil, etc.) and writing of forest management documents.
+
+* 2012-2014: Apprentice lumberjack
+  * EURL L'Agenais
+  * Chambery - France
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical Analysis
+* Fieldwork
+* Quantitative Ecology
+* Functional Ecology
+* Community Ecology
+* Forest Management
+* Illustration design
+* Video Creation
 
 Publications
 ======
@@ -54,6 +67,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
