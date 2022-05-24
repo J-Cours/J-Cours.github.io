@@ -1,5 +1,5 @@
 ---
-title: "Analysis of the environmental landscape conditions on severaldimensions of biodiversity"
+title: "Analysis of the environmental landscape conditions on several dimensions of biodiversity"
 excerpt: "Carrying out a study analysing the effect of forest dieback at local and landscape level on local saproxylic beetle communities<br/><img src='/images/Foret_deperissante.png' width='30%' />"
 collection: portfolio
 ---
