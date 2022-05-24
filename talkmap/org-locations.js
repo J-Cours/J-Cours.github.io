@@ -1,11 +1,11 @@
 var addressPoints = [
   [
-    "Melolontha hippocastani studies in northern Vosges mountains <a href='/publication/2021-02-15-paper'>[paper1]</a>",
+    "Melolontha hippocastani studies in northern Vosges mountains <a href='/publication/2021-05-25-paper'>[paper]</a>",
     48.908677,
     7.421408
   ],
   [
-    "CLIMTREE project - forest dieback in spruce forests <a href='/publication/2021-05-25-paper'>[paper]</a>",
+    "CLIMTREE project - forest dieback in spruce forests <a href='/publication/2021-02-15-paper'>[paper1]</a>",
     48.994157,
     13.399582
   ],
