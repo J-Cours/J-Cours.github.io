@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Analysis of the environmental landscape conditions on severaldimensions of biodiversity"
+excerpt: "Carrying out a study analysing the effect of forest dieback at local and landscape level on local saproxylic beetle communities<br/><img src='/images/Foret_deperissante.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this study, we used a wide variety of methods to analyse our communities (across taxonomic, functional and phylogenetic dimensions) and describe forest dieback at the landscape scale. For the latter, we used machine learning with training polygons to detect pixels of dead tree crowns, based on infrared colour orthophotographs. see [here]()
