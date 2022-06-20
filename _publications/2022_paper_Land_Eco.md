@@ -1,11 +1,11 @@
 ---
 title: "Drought-induced forest dieback increases taxonomic, functional, and phylogenetic diversity of saproxylic beetles at both local and landscape scales"
 collection: publications
-permalink: /publication/2022-05-01-paper
+permalink: /publication/2022-06-19-paper
 excerpt: ''
-date: 2022-05-01
+date: 2022-06-19
 venue: 'Landscape Ecology'
-paperurl: ''
+paperurl: 'https://rdcu.be/cPYpY'
 preprint: 'https://doi.org/10.21203/rs.3.rs-1052733/v1'
 authors: 'Jeremy Cours; Lucas Sire; Sylvie Ladet; Hilaire Martin; Guillem Parmain; Laurent Larrieu; Carl Moliard; Carlos Lopez-Vaamonde; Christophe Bouget'
 ---
