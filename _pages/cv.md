@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* 2019-2022: **PhD student**
+* 2022-Ongoing: **Post-doctoral fellow**
+  * Jyvaslyla University, KONE foundation
+  * Jyvaskyla - Finland
+  * Subject: Joint effects of land use and climate change on biodiversity
+* 2019-2022: **PhD Candidate**
   * Institut national de recherche pour l'agriculture, l'alimentation et l'environnement ([INRAE UR EFNO](https://www6.val-de-loire.inrae.fr/efno/))
   * Nogent-sur-Vernisson - France
   * Thesis title: Consequences of forest dieback on habitat and biodiversity
