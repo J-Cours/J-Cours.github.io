@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD in forest ecology. I am working as post-doctoral fellowship at Jyväskylä University in forest landscape and community ecology, and conservation biology. My current subject focus (i) on past biodiversity responses to joint effects of land use and climate change, and (ii) on future trends using simulation tools.
+I am PhD in forest ecology. I am working as post-doctoral fellowship at Jyvaskyla University in forest landscape and community ecology, and conservation biology. My current subject focus (i) on past biodiversity responses to joint effects of land use and climate change, and (ii) on future trends using simulation tools.
 My PhD subject was about the consequences of forest dieback on habitats and resources, and consequently on communities, especially arthropods.
 Before that, I have a technical background with professional studies in forestry management and a degree in forestry engineering. 
 
