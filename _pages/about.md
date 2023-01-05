@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Having a PhD in forest ecology, I work as postdoctoral researcher at Jyvaskyla University in the [Boreal Forest Research Group](https://www.jyu.fi/science/en/bioenv/research/natural-resources-and-environment/boreal-ecosystems-research-group) in forest landscape and community ecology, and conservation biology. My current subject focus (i) on past biodiversity responses to joint effects of land use and climate change, and (ii) on future trends using simulation tools.
+Having a PhD in forest ecology, I work as postdoctoral researcher at Jyvaskyla University in the [Boreal Ecosystems Research Group](https://www.jyu.fi/science/en/bioenv/research/natural-resources-and-environment/boreal-ecosystems-research-group) in forest landscape and community ecology, and conservation biology. My current subject focus (i) on past biodiversity responses to joint effects of land use and climate change, and (ii) on future trends using simulation tools.
 My PhD subject was about the consequences of forest dieback on habitats and resources, and consequently on communities, especially arthropods.
 Before that, I have a technical background with professional studies in forestry management and a degree in forestry engineering. 
 
