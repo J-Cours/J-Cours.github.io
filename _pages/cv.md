@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2022-Ongoing: **Post-doctoral fellow**
+* 2023-Ongoing: **Post-doctoral fellow**
   * Jyvaslyla University, KONE foundation
   * Jyvaskyla - Finland
   * Subject: Joint effects of land use and climate change on biodiversity
