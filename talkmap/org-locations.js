@@ -33,5 +33,10 @@ var addressPoints = [
     "Thesis - INRAE EFNO",
     47.835041,
     2.760474
+  ],
+  [
+    "Postdoctoral fellowship - Jyvaskyla University",
+    62.235808,
+    25.731399
   ]
 ];
