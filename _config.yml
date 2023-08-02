@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jérémy Cours' website"
+title                    : "Jeremy Cours' website"
 title_separator          : "-"
-name                     : &name "Jérémy Cours"
+name                     : &name "Jeremy Cours"
 description              : &description "I am currently in a post-doctoral fellow working on the joint effects of land-use and climate change on biodiversity"
 url                      : https://J-Cours.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
