@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-05-25
 venue: 'Annals of Forest Science Vol. 78 No 53'
 paperurl: 'https://doi.org/10.1007/s13595-021-01066-z'
-authors: 'Jeremy Cours, Louis-Michel Nageleisen, Régine Touffait, Hubert Schmuck, Stéphane Brault, Nathalie Breda, Claudine Richter, Francois-Xavier Saintonge, Vincent Boulanger'
+authors: 'Jeremy Cours, Louis-Michel Nageleisen, Régine Touffait, Hubert Schmuck, Stéphane Brault, Nathalie Breda, Claudine Richter, Francois-Xavier Saintonge & Vincent Boulanger'
 ---
 
 **Abstract:** Key message
