@@ -7,7 +7,7 @@ date: 2022-06-19
 venue: 'Landscape Ecology'
 paperurl: 'https://rdcu.be/cPYpY'
 preprint: 'https://doi.org/10.21203/rs.3.rs-1052733/v1'
-authors: 'Jérémy Cours; Lucas Sire; Sylvie Ladet; Hilaire Martin; Guillem Parmain; Laurent Larrieu; Carl Moliard; Carlos Lopez-Vaamonde; Christophe Bouget'
+authors: 'Jeremy Cours, Lucas Sire, Sylvie Ladet, Hilaire Martin, Guillem Parmain, Laurent Larrieu, Carl Moliard, Carlos Lopez-Vaamonde & Christophe Bouget'
 ---
 
 **Abstract:** Context:

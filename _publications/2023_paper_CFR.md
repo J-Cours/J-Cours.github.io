@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-05-08
 venue: 'Current Forestry Report'
 paperurl: 'https://link.springer.com/article/10.1007/s40725-023-00187-0'
-authors: 'Jérémy Cours; Christophe Bouget; Nadia Barsoum; Jakub Horák; Elodie Le Souchu; Alex B. Leverkus; Sylvain Pincebourde; Simon Thorn & Aurélien Sallé'
+authors: 'Jeremy Cours, Christophe Bouget, Nadia Barsoum, Jakub Horák, Elodie Le Souchu, Alex B. Leverkus, Sylvain Pincebourde, Simon Thorn & Aurélien Sallé'
 ---
 
 **Abstract:** Purpose of Review:
