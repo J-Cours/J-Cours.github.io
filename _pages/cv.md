@@ -11,20 +11,21 @@ redirect_from:
 
 Education
 ======
-* **PhD in Forest Ecology**, [University of Orleans](https://www.univ-orleans.fr/en), 2019-2022
-* **Forest Engineering - "Forest engineering and sciences"**, [AgroParisTech Nancy](http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html), 2016-2019
-* **Advanced Technician Certificate in Forest Management**, CFPPA Bazas, 2014-2016
+* **PhD in Forest Ecology**, [University of Orleans (FR)](https://www.univ-orleans.fr/en), 2019-2022
+* **Forest Engineering - "Forest engineering and sciences"**, [AgroParisTech Nancy (FR)](http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html), 2016-2019
+* **Advanced Technician Certificate in Forest Management**, [CFPPA Bazas (FR)](https://cfppa-forestiers.fr/nos-centres-de-formation/cfppa-de-bazas-gironde/), 2014-2016
+* **Technical High School degree - Forest**, [ISETA Annecy (FR)](https://iseta.fr/formation/bac-pro-foret-apprentissage/), 2012-2014
 
 Work experience
 ======
-* 2023-Ongoing: **Post-doctoral fellow**
+* 2023-Ongoing: **Post-doctoral Researcher**
   * Jyvaslyla University, KONE foundation
   * Jyvaskyla - Finland
   * Subject: Joint effects of land use and climate change on biodiversity
 * 2019-2022: **PhD Candidate**
   * Institut national de recherche pour l'agriculture, l'alimentation et l'environnement ([INRAE UR EFNO](https://www6.val-de-loire.inrae.fr/efno/))
   * Nogent-sur-Vernisson - France
-  * Thesis title: Consequences of forest dieback on habitat and biodiversity
+  * Thesis title: [Consequences of forest dieback on habitat and biodiversity](https://www.theses.fr/2022ORLE1007)
   * Protocol writing and implementation, data analysis (Generalized Linear Mixed Models, multivariate analysis, Piecewise Structural Equation Modeling, functional analysis), implementation of machine learning technique for raster classification
 
 * 2016-2019: **Research and development engineer apprentice**
