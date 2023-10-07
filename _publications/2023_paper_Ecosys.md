@@ -14,5 +14,4 @@ Forest decline caused by climate change has been a growing challenge for Europea
 
 
 **Graphical abstract:**\
-
 ![image](_publications/Figures/2023_Graph_abst_Ecosys.png)
