@@ -10,6 +10,9 @@ preprint: 'https://doi.org/10.21203/rs.3.rs-1052733/v1'
 authors: 'Jeremy Cours, Lucas Sire, Sylvie Ladet, Hilaire Martin, Guillem Parmain, Laurent Larrieu, Carl Moliard, Carlos Lopez-Vaamonde & Christophe Bouget'
 ---
 
+**PDF version:**
+Open [here](/files/Articles/2022/LE_2022_Art.pdf)
+
 **Abstract:**\
 *Context*: Many forest ecosystems around the world are facing increasing drought-induced dieback, causing mortality patches across the landscape at multiple scales. This increases the supply of biological legacies and differentially affects forest insect communities.
 
