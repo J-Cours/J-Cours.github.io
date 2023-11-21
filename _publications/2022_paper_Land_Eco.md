@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-06-19
 venue: 'Landscape Ecology'
 PDF: '/files/Articles/2022/LE_2022_Art.pdf'
-paperurl: 'https://rdcu.be/cPYpY'
+paperurl: 'https://link.springer.com/article/10.1007/s10980-022-01453-5'
 preprint: 'https://doi.org/10.21203/rs.3.rs-1052733/v1'
 authors: 'Jeremy Cours, Lucas Sire, Sylvie Ladet, Hilaire Martin, Guillem Parmain, Laurent Larrieu, Carl Moliard, Carlos Lopez-Vaamonde & Christophe Bouget'
 ---
