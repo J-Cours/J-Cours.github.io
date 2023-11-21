@@ -5,8 +5,8 @@ permalink: /publication/2021-02-15-paper
 excerpt: ''
 date: 2021-02-15
 venue: 'Forest Ecology and Management Vol. 482'
-paperurl: 'https://doi.org/10.1016/j.foreco.2020.118811'
 PDF: '/files/Articles/2021/FEM_2021_Art.pdf'
+paperurl: 'https://doi.org/10.1016/j.foreco.2020.118811'
 authors: 'Jeremy Cours, Laurent Larrieu, Carlos Lopez-Vaamonde, Jörg Müller, Guillem Parmain, Simon Thorn & Christophe Bouget'
 ---
 
