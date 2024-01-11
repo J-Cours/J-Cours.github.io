@@ -5,7 +5,7 @@ permalink: /publication/2024-01-05-paper
 excerpt: ''
 date: 2024-01-05
 venue: 'Insect Conservation and Diversity'
-paperurl: 'https://link.springer.com/article/10.1007/s10980-022-01453-5'
+paperurl: 'https://resjournals.onlinelibrary.wiley.com/doi/full/10.1111/icad.12708'
 preprint: 'https://doi.org/10.1101/2023.07.25.550070'
 authors: 'Elodie Le Souchu, Jeremy Cours, Thomas Cochenille, Christophe Bouget, Stéphanie Bankhead-Dronnet, Patrick Burguet, Clarisse Gabard, Christophe Galkowski, Bruno Gereys, Franck Herbrecht, Barbara Joncour, Erwann Marhic, Denis Michez, Peter Neerup Buhl, Thierry Noblecourt, David G Notton, Willian Penigot, Jean-Yves Rasplus, Thierry Robert, Arnstein Staverlokk, Cécile Vincent-Barbaroux & Aurélien Sallé'
 ---
