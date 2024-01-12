@@ -5,6 +5,7 @@ permalink: /publication/2023-08-31-paper
 excerpt: ''
 date: 2023-08-31
 venue: 'Ecosystems'
+PDF: '/files/Articles/2023/Ecosystems_2023_Art.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s10021-023-00875-9'
 authors: 'Christophe Bouget, Jeremy Cours, Laurent Larrieu, Guillem Parmain, Jörg Müller, Valentin Speckens & Aurélien Sallé'
 ---
