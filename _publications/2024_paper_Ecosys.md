@@ -1,7 +1,7 @@
 ---
 title: "Trait-Based Response of Deadwood and Tree-Related Microhabitats to Decline in Temperate Lowland and Montane Forests"
 collection: publications
-permalink: /publication/2024-01-paper
+permalink: /publication/2024-01-01-paper
 excerpt: ''
 date: 2024-01
 venue: 'Ecosystems Vol. 27, 90-105'
