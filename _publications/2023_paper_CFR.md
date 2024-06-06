@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/2023-05-08-paper
 excerpt: ''
 date: 2023-05-08
-venue: 'Current Forestry Report'
+venue: 'Current Forestry Report Vol.9, 189-218'
+PDF: '/files/Articles/2023/Current_For_Rev_2023_Art.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s40725-023-00187-0'
 authors: 'Jeremy Cours, Christophe Bouget, Nadia Barsoum, Jakub Horák, Elodie Le Souchu, Alex B. Leverkus, Sylvain Pincebourde, Simon Thorn & Aurélien Sallé'
 ---
