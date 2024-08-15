@@ -78,44 +78,60 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  name             : "Jeremy Cours"
+  # Biographic information
   avatar           : "Photo_profil_low.jpg"
-  bio              : "Postdoctoral researcher in forest ecology at Jyvaskyla University in the <a href='https://www.jyu.fi/science/en/bioenv/research/natural-resources-and-environment/boreal-ecosystems-research-group'>Boreal Ecosystems Research Group</a>"
+  name             : "Jeremy Cours"
   pronouns         : "he/his"
+  bio              : "Postdoctoral researcher in forest ecology at Jyväskylä University in the <a href='https://www.jyu.fi/science/en/bioenv/research/natural-resources-and-environment/boreal-ecosystems-research-group'>Boreal Ecosystems Research Group</a>"
   location         : "Finland"
-  #employer         : ""
+  employer         : "University of Jyväskylä"
+  uri              :
+  email            : "jeremy.cours.2@gmail.com"
+  
+  
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=rjlLHvoAAAAJ&hl=fr&authuser=1&oi=ao"
-  email            : "jeremy.cours.2@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Jeremy-Cours-2"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "J-Cours"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : 
-  lastfm           :
-  linkedin         :
   orcid            : "https://orcid.org/0000-0003-4179-2350"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "@Jeremy_Cours"
-  vine             :
-  weibo            :
-  xing             :
+  researchgate     : "https://www.researchgate.net/profile/Jeremy-Cours-2"
+  
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "J-Cours"
+  kaggle           : # Username  
+  stackoverflow    : # Username    
+
+  # Social media
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : "@Jeremy_Cours"  # Replace this with your X / Twitter handle
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
   youtube          : "UCJj3A9uvnvFKciJVKC6fyUw"
-  wikipedia        :
 
 
 # Reading Files
