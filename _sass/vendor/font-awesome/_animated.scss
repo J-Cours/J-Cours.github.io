@@ -56,7 +56,7 @@
 }
 
 .#{$fa-css-prefix}-spin {
-animation-name: #{$fa-css-prefix}-spin;
+  animation-name: #{$fa-css-prefix}-spin;
   animation-delay: var(--#{$fa-css-prefix}-animation-delay, 0s);
   animation-direction: var(--#{$fa-css-prefix}-animation-direction, normal);
   animation-duration: var(--#{$fa-css-prefix}-animation-duration, 2s);
@@ -122,7 +122,7 @@ animation-name: #{$fa-css-prefix}-spin;
     opacity: var(--#{$fa-css-prefix}-beat-fade-opacity, 0.4);
     transform: scale(1);
   }
-    50% {
+  50% {
     opacity: 1;
     transform: scale(var(--#{$fa-css-prefix}-beat-fade-scale, 1.125));
   }
@@ -133,7 +133,6 @@ animation-name: #{$fa-css-prefix}-spin;
     transform: rotate3d(var(--#{$fa-css-prefix}-flip-x, 0), var(--#{$fa-css-prefix}-flip-y, 1), var(--#{$fa-css-prefix}-flip-z, 0), var(--#{$fa-css-prefix}-flip-angle, -180deg));
   }
 }
-
 
 @keyframes #{$fa-css-prefix}-shake {
   0% { transform: rotate(-15deg); }

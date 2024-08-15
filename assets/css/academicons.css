@@ -1,5 +1,5 @@
 /*
-*  Academicons 1.9.4 by James Walsh (https://github.com/jpswalsh) and Katja Bercic (https://github.com/katjabercic)
+ *  Academicons 1.9.4 by James Walsh (https://github.com/jpswalsh) and Katja Bercic (https://github.com/katjabercic)
  *  Fonts generated using FontForge - https://fontforge.org
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
@@ -7,7 +7,7 @@
 @font-face {
     font-family: 'Academicons';
     font-style: normal;
-        font-weight: 400;
+    font-weight: 400;
     font-display: block;
     src:url('../fonts/academicons.eot');
     src:url('../fonts/academicons.eot') format('embedded-opentype'),
@@ -16,7 +16,7 @@
         url('../fonts/academicons.svg') format('svg');
 }
 .ai {
-	font-family: 'Academicons';
+  font-family: 'Academicons';
   font-weight: 400;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -507,7 +507,7 @@
 
 .ai-fw {
   text-align: center;
-    width: 1.25em;
+  width: 1.25em;
 }
 
 .ai-ul {
@@ -516,7 +516,7 @@
   padding-left: 0;
 }
 .ai-ul > li {
-  position: relative;
+    position: relative;
 }
 .ai-li {
   left: -2em;
@@ -526,10 +526,9 @@
   line-height: inherit;
 }
 
-}
 .ai-border {
-  border: solid 0.08em #eee;
-  border-radius: .1em;
+border: solid 0.08em #eee;
+border-radius: .1em;
   padding: .2em .25em .15em;
 }
 
@@ -545,6 +544,7 @@
 .ai.ai-pull-right {
   margin-right: .3em;
 }
+
 .ai-stack {
   display: inline-block;
   height: 2em;
