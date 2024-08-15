@@ -1,0 +1,14 @@
+---
+title: "Changes in abundance and distribution of European forest bird populations depend on biome, ecological specialisation and traits"
+collection: publications
+permalink: /publication/2024-07-16-paper
+excerpt: ''
+date: 2024-07-16
+venue: 'ESS Open Archive'
+# paperurl: ''
+preprint: 'https://www.authorea.com/users/804836/articles/1192297-changes-in-abundance-and-distribution-of-european-forest-bird-populations-depend-on-biome-ecological-specialisation-and-traits'
+authors: 'Jeremy Cours, Merja Elo, Josephine Pithon, Maria Triviño, Mikko Mönkkönen, Jonas Hagge, Aleksi Lehikoinen & Rémi Duflot'
+---
+
+**Abstract:**\
+Forest bird populations in Europe have remained stable overall, unlike the drastic decline in the populations of farmland species. However, this apparent overall stability may hide large variation among species. We aimed to determine if forest bird species with varying life histories and biome distributions show different population trends. We used functional traits and specialisation indices to study changes in abundance and distribution of European forest bird populations, and to identify "winner", "loser", and stable species. We defined change in abundance as the population trend of each species over the last 40 years, and change in distribution as two components: range change (i.e., area shrinkage or expansion) and range shift (i.e., latitudinal adjustments), both over the last 30 years. We also considered specialist groups of different biomes (i.e., boreal, temperate, Mediterranean and biome generalists) separately. We show that while Mediterranean and temperate species have increased in abundance and range, probably as the result of warmer temperatures and forest expansion in these regions, boreal forest species have declined in abundance and range area. This probably results from changes in forest structure and composition due to forestry practices, increasing temperatures, and colonisation of warm-dwelling species. Among boreal species, the ones related to mixed forest (i.e., mix of broadleaf and coniferous trees) declined the most, both in abundance and range, and shifted northwards. In contrast, for vertebrate carnivores (i.e., birds of prey), we observed abundance increase among Mediterranean species and southward expansion among all species. We conclude that forest bird species in Europe are sensitive to the combined effects of land use and climate change, and these effects vary among the different biomes. Our results highlight the necessity of maintaining and restoring key forest habitats (e.g. through increased protected areas and extensive management) and halting or limiting climate change, especially regarding boreal species.
