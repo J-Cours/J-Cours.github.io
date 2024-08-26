@@ -3,11 +3,7 @@ layout: archive
 title: "Photos"
 permalink: /photos/
 author_profile: true
-include_scripts:[
-"/assets/js/photos.js"
-]
 ---
-
 
 <head>
    <style>
@@ -60,6 +56,22 @@ include_scripts:[
 </head>
 
 <body>
+  <script>
+      
+      var fullImgBox = document.getElementById("fullImgBox")
+      var fullImg = document.getElementById("fullImg")
+      
+      function openFullImg(pic){
+        fullImgBox.style.display = "flex";
+        fullImg.src = pic;
+      }
+      
+      function closeFullImg(){
+        fullImgBox.style.display = "none";
+      }
+      
+    </script>
+  
   <div class="full-img" id="fullImgBow">
     <img src="/files/Photos/Nogent_Lacerta_bilineata.jpg" id="fullImg">
     <span onclick="closeFullImg()">X</span>
