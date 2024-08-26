@@ -95,5 +95,18 @@ $(document).ready(function(){
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
+  
+  var fullImgBox = document.getElementById("fullImgBox")
+  var fullImg = document.getElementById("fullImg")
+  
+  function openFullImg(pic){
+    fullImgBox.style.display = "flex";
+    fullImg.src = pic;
+    
+  }
+  
+  function closeFullImg(){
+    fullImgBox.style.display = "none";
+  }
 
 });
