@@ -26,12 +26,6 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-    
-    {% if page.include_scripts %}
-      {% for include_script in page.include_scripts %}
-        <script type='text/javascript' scr='{{ include_script }}'></script>
-      {% endfor %}
-    {% endif %}
 
   </body>
 </html>
