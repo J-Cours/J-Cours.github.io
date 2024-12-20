@@ -8,4 +8,4 @@ date: 2022-09-20
 location: "Berchtesgaden, Germany"
 ---
 
-More informations [here](https://edfm.wzw.tum.de/en/ecosystem-dynamics-symposium.html).
+More informations [here](https://hal.inrae.fr/hal-04185504).
