@@ -3,7 +3,7 @@ title: "Forest biodiversity monitoring: the example of bird survey in Finland an
 collection: talks
 type: "Poster presentation"
 permalink: /talks/IUFRO_2024
-venue: "Forest & Society Towards 2050"
+venue: "IUFRO 2025 - Forest & Society Towards 2050"
 date: 2024-06-23
 location: "Stockholm, Sweden"
 ---
