@@ -5,7 +5,7 @@ permalink: /publication/2025-03-06-paper
 excerpt: ''
 date: 2025-03-06
 venue: 'Ecography'
-# paperurl: 'https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.07582'
+paperurl: 'https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.07582'
 preprint: 'https://www.authorea.com/users/804836/articles/1192297-changes-in-abundance-and-distribution-of-european-forest-bird-populations-depend-on-biome-ecological-specialisation-and-traits'
 authors: 'Jeremy Cours, Merja Elo, Joséphine Pithon, María Triviño, Mikko Mönkkönen, Jonas Hagge, Aleksi Lehikoinen & Rémi Duflot'
 ---
