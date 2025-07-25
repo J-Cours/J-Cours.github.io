@@ -14,7 +14,7 @@ Education
 * **PhD in Forest Ecology**, [University of Orleans (FR)](https://www.univ-orleans.fr/en), 2019-2022
 * **Forest Engineering - "Forest engineering and sciences"**, [AgroParisTech Nancy (FR)](http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html), 2016-2019
 * **Advanced Technician Certificate in Forest Management**, [CFPPA Bazas (FR)](https://cfppa-forestiers.fr/nos-centres-de-formation/cfppa-de-bazas-gironde/), 2014-2016
-* **Technical High School degree - Forest**, [ISETA Annecy (FR)](https://iseta.fr/formation/bac-pro-foret-apprentissage/), 2012-2014
+* **Technical High School degree - Forest**, [ISETA Annecy (FR)](https://iseta-eca.fr/bac-pro-foret-en-apprentissage/), 2012-2014
 
 Work experience
 ======
