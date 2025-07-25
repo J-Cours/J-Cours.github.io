@@ -35,7 +35,7 @@ Work experience
   * Implementation of studies on silviculture of *Fagus sylvatica*
 
 * 2014-2016: **Apprentice forestry technician**
-  * [SA Castagnet-Dumeou](http://castagnet-dumeou.fr/)
+  * SA Castagnet-Dumeou
   * Casteljaloux - France
   * Forest diagnostics (descriptions of forest stand, soil, etc.) and writing of forest management documents.
 
