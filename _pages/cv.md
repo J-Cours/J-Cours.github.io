@@ -11,35 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **PhD in Forest Ecology**, [University of Orleans (FR)](https://www.univ-orleans.fr/en), 2019-2022
+* **Forest Engineering - "Forest engineering and sciences"**, [AgroParisTech Nancy (FR)](http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html), 2016-2019
+* **Advanced Technician Certificate in Forest Management**, [CFPPA Bazas (FR)](https://cfppa-forestiers.fr/nos-centres-de-formation/cfppa-de-bazas-gironde/), 2014-2016
+* **Technical High School degree - Forest**, [ISETA Annecy (FR)](https://iseta-eca.fr/bac-pro-foret-en-apprentissage/), 2012-2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2026-Ongoing: **Researcher**
+  * [INRAE URZF](https://urzf.val-de-loire.hub.inrae.fr/)
+  * Orleans - France
+  * Main subject: Forest insect community ecology in context of biological invasion
+* 2023-2026: **Post-doctoral Researcher**
+  * Jyvaslyla University, KONE foundation
+  * Jyvaskyla - Finland
+  * Subject: Joint effects of land use and climate change on biodiversity
+* 2019-2022: **PhD Candidate**
+  * Institut national de recherche pour l'agriculture, l'alimentation et l'environnement ([INRAE UR EFNO](https://www6.val-de-loire.inrae.fr/efno/))
+  * Nogent-sur-Vernisson - France
+  * Thesis title: [Consequences of forest dieback on habitat and biodiversity](https://www.theses.fr/2022ORLE1007)
+  * Protocol writing and implementation, data analysis (Generalized Linear Mixed Models, multivariate analysis, Piecewise Structural Equation Modeling, functional analysis), implementation of machine learning technique for raster classification
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2019: **Research and development engineer apprentice**
+  * [Office National des Forets](https://www.onf.fr/onf) (ONF DFRN)
+  * Montreuil - France
+  * Implementation of studies on ecology of *Melolontha hippocastani*
+  * Implementation of studies on silviculture of *Fagus sylvatica*
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-2016: **Apprentice forestry technician**
+  * SA Castagnet-Dumeou
+  * Casteljaloux - France
+  * Forest diagnostics (descriptions of forest stand, soil, etc.) and writing of forest management documents.
+
+* 2012-2014: **Apprentice lumberjack**
+  * [EURL L'Agenais](https://www.lagenais.com/)
+  * Chambery - France
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical Analysis
+* Quantitative Ecology
+* Functional Ecology
+* Community Ecology
+* Forest Management
+* Fieldwork
+* Illustration design
+* Video Creation
 
 Publications
 ======
