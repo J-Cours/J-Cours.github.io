@@ -1,22 +1,42 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Melolontha hippocastani studies in northern Vosges mountains <a href='/publication/2021-05-25-paper'>[paper]</a>",
+    48.908677,
+    7.421408
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "CLIMTREE project - forest dieback in spruce forests <a href='/publication/2021-02-15-paper'>[paper1]</a> <a href='/publication/2024-01-paper'>[paper2]</a>",
+    48.994157,
+    13.399582
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "CLIMTREE project - forest dieback in fir forests <a href='/publication/2021-02-15-paper'>[paper1]</a> <a href='/publication/2022-01-18-paper'>[paper2]</a> <a href='/publication/2022-06-19-paper'>[paper3]</a> <a href='/publication/2024-01-paper'>[paper4]</a>",
+    42.811653,
+    0.590468
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "CLIMTREE project - forest dieback in fir forests <a href='/publication/2021-02-15-paper'>[paper1]</a> <a href='/publication/2022-01-18-paper'>[paper2]</a> <a href='/publication/2022-06-19-paper'>[paper3]</a> <a href='/publication/2024-01-paper'>[paper4]</a>",
+    42.831889,
+    1.970911
+  ],
+  [
+    "CANOPEE project - forest dieback in oak forest <a href='/publication/2024-01-paper'>[paper1]</a>",
+    47.268166,
+    2.088917
+  ],
+  [
+    "CANOPEE project - forest dieback in oak forest <a href='/publication/2024-01-paper'>[paper1]</a>",
+    48.030079,
+    2.153492
+  ],
+  [
+    "PhD Thesis - INRAE EFNO",
+    47.835041,
+    2.760474
+  ],
+  [
+    "Postdoctoral Researcher - Jyvaskyla University",
+    62.235808,
+    25.731399
   ]
 ];
