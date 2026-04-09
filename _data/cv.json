@@ -1,76 +1,67 @@
 {
   "basics": {
-    "name": "Jérémy Cours",
-    "email": "jeremy.cours@inrae.fr",
+    "name": "Your Sidebar Name",
+    "email": "none@example.org",
     "phone": "",
-    "website": "https://j-cours.github.io/",
-    "summary": "Currently researcher in forest ecology at INRAE in the <a href='https://urzf.val-de-loire.hub.inrae.fr/'>Forest Zoology Research Unit</a>",
+    "website": "https://academicpages.github.io",
+    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Orléans",
-      "countryCode": "FR",
+      "city": "Earth",
+      "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.fr/citations?user=rjlLHvoAAAAJ&hl=fr&authuser=1&oi=ao"
+        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/0000-0003-4179-2350"
+        "url": "https://orcid.org/yourorcidurl"
       },
       {
         "network": "GitHub",
-        "username": "J-Cours",
-        "url": "J-Cours"
+        "username": "academicpages",
+        "url": "https://github.com/academicpages"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "<a href='https://www.univ-orleans.fr/en'>University of Orleans (FR)</a>",
-      "area": "Ph.D in Forest Ecology",
+      "institution": "GitHub University",
+      "area": "Ph.D in Version Control Theory",
       "studyType": "",
-      "startDate": "2019",
-      "endDate": "2022",
+      "startDate": "",
+      "endDate": "2018",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "<a href='http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html'>AgroParisTech Nancy (FR)</a>",
-      "area": "M.S. Forest Engineering - "Forest engineering and sciences",
+      "institution": "GitHub University",
+      "area": "M.S. in Jekyll",
       "studyType": "",
-      "startDate": "2016",
-      "endDate": "2019",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "<a href='https://cfppa-forestiers.fr/nos-centres-de-formation/cfppa-de-bazas-gironde/'>CFPPA Bazas (FR)</a>",
-      "area": "Advanced Technician Certificate in Forest Management",
-      "studyType": "",
-      "startDate": "2014",
-      "endDate": "2016",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "<a href='https://iseta-eca.fr/bac-pro-foret-en-apprentissage/'>ISETA Annecy (FR)</a>",
-      "area": "Technical High School degree - Forest",
-      "studyType": "",
-      "startDate": "2012",
+      "startDate": "",
       "endDate": "2014",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "GitHub University",
+      "area": "B.S. in GitHub",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [Statistical Analysis, Quantitative Ecology, Community Ecology, Functional Ecology, Forest Management, Illustration Design, Video Creation],
-  "languages": [French = Mother Tongue, English = B2-C1],
+  "skills": [],
+  "languages": [],
   "interests": [],
   "references": [],
   "publications": [
