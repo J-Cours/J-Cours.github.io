@@ -1,6 +1,7 @@
 ---
 title: "Forêts en crise et biodiversité : menaces et opportunités. Effets des dépérissements et de leur gestion sur la biodiversité forestière"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-06-23-paper2
 excerpt: ''
 date: 2023-06-23

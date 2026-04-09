@@ -1,6 +1,7 @@
 ---
 title: "Climate-induced forest dieback drives compositional changes in insect communities that are more pronounced for rare species"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-18-paper
 excerpt: ''
 date: 2022-01-18

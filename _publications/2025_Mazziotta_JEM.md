@@ -1,6 +1,7 @@
 ---
 title: "Assessing the impact of private forest owner preferences on the supply of ecosystem services"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-09-paper
 excerpt: ''
 date: 2025-09-01

@@ -1,6 +1,7 @@
 ---
 title: "Etude du choix de lieu de ponte par le hanneton forestier dans les Vosges du Nord"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-10-01-paper
 excerpt: ''
 date: 2021-10-01

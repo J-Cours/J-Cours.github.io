@@ -1,6 +1,7 @@
 ---
 title: "Drought-induced forest dieback increases taxonomic, functional, and phylogenetic diversity of saproxylic beetles at both local and landscape scales"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-06-19-paper
 excerpt: ''
 date: 2022-06-19

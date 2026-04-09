@@ -1,6 +1,7 @@
 ---
 title: "Effects of forest dieback on deadwood patterns: Large scale trends from a cross-analysis of European databases"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-02-paper
 excerpt: ''
 date: 2025-01-02

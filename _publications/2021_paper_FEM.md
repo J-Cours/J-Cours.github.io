@@ -1,6 +1,7 @@
 ---
 title: "Contrasting responses of habitat conditions and insect biodiversity to pest- or climate-induced dieback in coniferous mountain forests"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-02-15-paper
 excerpt: ''
 date: 2021-02-15

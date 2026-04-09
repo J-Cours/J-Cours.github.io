@@ -1,6 +1,7 @@
 ---
 title: "Effects of landscape heterogeneity on bird communities in temperate, boreal, and montane forests–a review"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-05-paper
 excerpt: ''
 date: 2025-05-01

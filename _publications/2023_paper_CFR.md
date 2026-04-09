@@ -1,6 +1,7 @@
 ---
 title: "Surviving in Changing Forests: Abiotic Disturbance Legacy Effects on Arthropod Communities of Temperate Forests"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-05-08-paper
 excerpt: ''
 date: 2023-05-08

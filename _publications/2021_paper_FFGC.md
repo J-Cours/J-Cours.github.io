@@ -1,6 +1,7 @@
 ---
 title: "Climate Change Alters Temperate Forest Canopies and Indirectly Reshapes Arthropod Communities"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-08-12-paper
 excerpt: ''
 date: 2021-08-12

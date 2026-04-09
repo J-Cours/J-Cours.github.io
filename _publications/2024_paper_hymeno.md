@@ -1,6 +1,7 @@
 ---
 title: "Responses of the hyper-diverse community of canopy-dwelling Hymenoptera to oak decline"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-05-paper
 excerpt: ''
 date: 2024-01-05

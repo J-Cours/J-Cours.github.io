@@ -1,6 +1,7 @@
 ---
 title: "Ecologically and economically sustainable level of timber harvesting in boreal forests–defining the safe operating space for forest use"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-07-01-paper
 excerpt: ''
 date: 2024-07-01

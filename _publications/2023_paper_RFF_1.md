@@ -1,6 +1,7 @@
 ---
 title: "Conséquences des coupes sanitaires sur la résilience des écosystèmes forestiers perturbés : une revue de la littérature"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-06-23-paper1
 excerpt: ''
 date: 2023-06-23

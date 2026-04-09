@@ -1,6 +1,7 @@
 ---
 title: "Changes in abundance and distribution of European forest bird populations depend on biome, ecological specialisation and traits"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-03-06-paper
 excerpt: ''
 date: 2025-03-06

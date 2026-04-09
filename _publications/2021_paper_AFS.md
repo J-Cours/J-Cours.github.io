@@ -1,6 +1,7 @@
 ---
 title: "Oviposition preference of the forest cockchafer (*Melolontha hippocastani* Fabr. 1801) at the stand scale depends on oak proportion, canopy openness and ground accessibility"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-05-25-paper
 excerpt: ''
 date: 2021-05-25
